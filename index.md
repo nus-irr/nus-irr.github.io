@@ -34,4 +34,4 @@ Here are faculty members in NUS IRR:
 {% include figure.html image="https://cde.nus.edu.sg/ece/wp-content/uploads/sites/3/2024/07/me-rsl-2023-removebg-preview-crop.jpg" caption="Prof. Fan Shi" position="left" width="300" height="800" %}
 {% include figure.html image="https://cde.nus.edu.sg/ece/wp-content/uploads/sites/3/2024/07/me-rsl-2023-removebg-preview-crop.jpg" caption="Prof. Fan Shi" position="right" width="300" height="800" %}
 {% include figure.html image="https://cde.nus.edu.sg/ece/wp-content/uploads/sites/3/2024/07/me-rsl-2023-removebg-preview-crop.jpg" caption="Prof. Fan Shi" position="left" width="300" height="800" %}
-{% include figure.html image="/assets/images/white-4x3.png" caption=" " position="right" width="300" height="800" %}
+{% include figure.html image="/assets/images/white_4x3.png" caption=" " position="right" width="300" height="800" %}
