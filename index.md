@@ -32,4 +32,5 @@ Here are faculty members in NUS IRR:
 {% include figure.html image="https://cde.nus.edu.sg/ece/wp-content/uploads/sites/3/2024/07/me-rsl-2023-removebg-preview-crop.jpg" caption="Prof. Fan Shi" position="left" width="300" height="800" %}
 {% include figure.html image="/assets/images/while_irr_4x3.jpg" caption=" " position="right" width="300" height="800" %}
 {% include figure.html image="https://cde.nus.edu.sg/ece/wp-content/uploads/sites/3/2019/02/231121-Zhao-Lin-5750-768x1024.jpg" caption="Prof. Lin Zhao" position="left" width="300" height="800" %}
-{% include figure.html image="/assets/images/zhengshou_stanford_photo_4x3.jpg" caption="Prof. Mike Zheng Shou" position="right" width="300" height="800" %}
+{% include figure.html image="https://cde.nus.edu.sg/ece/wp-content/uploads/sites/3/2019/02/231121-Zhao-Lin-5750-768x1024.jpg" caption="Prof. Lin Zhao" position="right" width="300" height="800" %}
+<!-- {% include figure.html image="/assets/images/zhengshou_stanford_photo_4x3.jpg" caption="Prof. Mike Zheng Shou" position="right" width="300" height="800" %} -->
